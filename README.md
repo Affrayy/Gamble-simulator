@@ -1,1 +1,1 @@
-# Gamble-simulator
+# Only-education purpose
